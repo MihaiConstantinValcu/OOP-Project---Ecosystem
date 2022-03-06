@@ -1,3 +1,0 @@
-C:/Users/Mihai/Desktop/Proiect-POO-main/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/Mihai/Desktop/Proiect-POO-main/cmake-build-debug/CMakeFiles/ProiectPOO.dir
-C:/Users/Mihai/Desktop/Proiect-POO-main/cmake-build-debug/CMakeFiles/edit_cache.dir
